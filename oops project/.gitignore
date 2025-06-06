@@ -1,0 +1,23 @@
+# Ignore Windows executables and object files
+*.exe
+*.o
+*.obj
+*.dll
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore user-specific and OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Visual Studio Code settings (optional)
+.vscode/
+
+# Ignore song files (if you don't want to upload them)
+song/
+*.wav
+
+# Ignore backup files
+*~
